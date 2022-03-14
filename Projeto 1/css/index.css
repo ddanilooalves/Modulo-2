@@ -1,5 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: rgb(216, 8, 129);
+    width: 100%;
+    height: 100%;
 }
 
 #titulo {
@@ -12,8 +19,8 @@ main {
     background-color: white;
     color: rgb(216, 8, 129);
     text-align: center;
-    margin-top: 10%;
-    font-size: 20px;
+    margin-top: 100%;
+    font-size: 100%;
 }
 
 header {
@@ -21,24 +28,24 @@ header {
 }
 
 img {
-    width: 60%;
-    height: 90%;
+    width: 40%;
+    height: 100%;
 }
 
 ul {
     color: white;
-    font-size: 30px;
-    margin-left: 580px;
-    margin-top: -60%;
+    font-size: 100%;
+    margin-left: 100%;
+    margin-top: 100%;
     background-color: rgb(197, 58, 139);
 }
 
 button {
     width: 20%;
-    height: 50px;
-    margin-top: 80px;
-    margin-left: 670px;
+    height: 50%;
+    margin-top: 80%;
+    margin-left: 670%;
     background-color: rgb(197, 58, 139);
     color: white;
-    font-size: 20px;
+    font-size: 20%;
 }
