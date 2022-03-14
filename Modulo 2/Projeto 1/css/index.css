@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(216, 8, 129);
+}
+
+#titulo {
+    background-color: white;
+    color: rgb(216, 8, 129);
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    color: rgb(216, 8, 129);
+    text-align: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+header {
+    padding: 50px;
+}
+
+img {
+    width: 60%;
+    height: 90%;
+}
+
+ul {
+    color: white;
+    font-size: 30px;
+    margin-left: 580px;
+    margin-top: -60%;
+    background-color: rgb(197, 58, 139);
+}
+
+button {
+    width: 20%;
+    height: 50px;
+    margin-top: 80px;
+    margin-left: 670px;
+    background-color: rgb(197, 58, 139);
+    color: white;
+    font-size: 20px;
+}
