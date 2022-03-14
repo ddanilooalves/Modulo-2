@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(216, 8, 129);
+    width:90%;
+    height: 5em;
+}
+
+#titulo {
+    background-color: white;
+    color: rgb(216, 8, 129);
+    text-align: center;
+    margin-left: 7%;
+}
+
+main {
+    background-color: white;
+    color: rgb(216, 8, 129);
+    text-align: center;
+    font-size: 110%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+header {
+    padding: 50px;
+}
+
+img {
+    width: 35%;
+    margin-left: 12%;
+    margin-top: -1%;
+}
+
+ul {
+    color: white;
+    font-size: 400%;
+    margin-left: 50%;
+    margin-top: -35%;
+    background-color: rgb(197, 58, 139);
+}
+
+button {
+    width: 20%;
+    height: 70%;
+    margin-top: 8%;
+    margin-left: 65%;
+    background-color: rgb(197, 58, 139);
+    color: white;
+    font-size: 140%;
+}
